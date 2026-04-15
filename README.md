@@ -7,8 +7,7 @@ Developed by [@Kxllve](https://github.com/Kxllve)
 ## 🚀 Features
 
 - **Persistent Storage**: Tasks are saved to `Tasks.txt` automatically, so your progress is never lost.
-- **Object-Oriented Design**: Built using clean C++ classes and encapsulation.
-- **Task Lifecycle**: Add, view, and mark tasks as completed through an intuitive command-line interface.
+- **Task Lifecycle**: Add, view, and mark tasks as completed through a command-line interface.
 - **Data Management**: Built-in "Reset" functionality to clear your workspace instantly.
 
 ## 🛠️ How to Use
